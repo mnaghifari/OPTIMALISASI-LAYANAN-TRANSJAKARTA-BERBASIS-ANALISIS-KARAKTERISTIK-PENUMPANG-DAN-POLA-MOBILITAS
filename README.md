@@ -7,6 +7,7 @@ Proyek ini bertujuan untuk memberikan rekomendasi strategis bagi peningkatan kua
 TransJakarta sebagai sistem transportasi publik utama di Jakarta terus menghadapi tantangan dalam memenuhi kebutuhan mobilitas masyarakat yang dinamis. Untuk itu, diperlukan pendekatan berbasis data guna memahami karakteristik pengguna dan merumuskan kebijakan layanan yang lebih inklusif, efisien, dan tepat sasaran.
 
 **RUMUSAN MASALAH**
+
 Berdasarkan latar belakang dan eksplorasi data yang dilakukan, ditemukan beberapa rumusan masalah sebagai berikut:
 1. Demografi gender penumpang yang didominasi oleh Perempuan.
 2. Penumpang usia produktif mendominasi, sementara jumlah penumpang lansia masih sangat rendah.
@@ -30,21 +31,22 @@ Berdasarkan latar belakang dan eksplorasi data yang dilakukan, ditemukan beberap
 
 **RINGKASAN ANALISA DATA**
 1. Demografi Gender
+
   •	Perempuan mendominasi di mayoritas layanan (Non-BRT, MikroTrans, RoyalTrans)
   •	Rekomendasi: Penambahan bus khusus wanita di 3 rute Non-BRT dan peningkatan keamanan
-2. Demografi Usia
+3. Demografi Usia
   •	Mayoritas penumpang: Millennial dan Gen Z
   •	Proporsi lansia sangat kecil (2%)
   •	Rekomendasi: Kampanye halte ramah lansia, peningkatan aksesibilitas, sosialisasi tarif gratis
-3. Pola Perjalanan
+4. Pola Perjalanan
   •	Weekday: Didominasi jam sibuk (06.00 & 17.00)
   •	Weekend: Jumlah perjalanan menurun drastis
   •	Rekomendasi: Program loyalitas akhir pekan untuk penumpang aktif
-4. Analisis Rute
+5. Analisis Rute
   •	Weekday: Rute komuter (Cibubur – Balai Kota, Tanah Abang)
   •	Weekend: Rute wisata (Ancol, Ragunan)
   •	Rekomendasi: Alokasi armada sesuai pola perjalanan
-5. Metode Pembayaran
+6. Metode Pembayaran
   •	JakCard Bank DKI paling populer (49%)
   •	Rekomendasi: Integrasi aplikasi TiJe dengan mobile banking & perluasan top-up JakCard
 
