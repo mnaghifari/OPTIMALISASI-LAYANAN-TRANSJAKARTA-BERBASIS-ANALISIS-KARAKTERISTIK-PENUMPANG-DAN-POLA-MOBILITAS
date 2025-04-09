@@ -31,23 +31,23 @@ Berdasarkan latar belakang dan eksplorasi data yang dilakukan, ditemukan beberap
 
 **RINGKASAN ANALISA DATA**
 1. Demografi Gender
-
-  •	Perempuan mendominasi di mayoritas layanan (Non-BRT, MikroTrans, RoyalTrans)
-  •	Rekomendasi: Penambahan bus khusus wanita di 3 rute Non-BRT dan peningkatan keamanan
+•	Perempuan mendominasi di mayoritas layanan (Non-BRT, MikroTrans, RoyalTrans)
+•	Rekomendasi: Penambahan bus khusus wanita di 3 rute Non-BRT dan peningkatan keamanan
 3. Demografi Usia
-  •	Mayoritas penumpang: Millennial dan Gen Z
-  •	Proporsi lansia sangat kecil (2%)
-  •	Rekomendasi: Kampanye halte ramah lansia, peningkatan aksesibilitas, sosialisasi tarif gratis
+•	Mayoritas penumpang: Millennial dan Gen Z
+•	Proporsi lansia sangat kecil (2%)
+•	Rekomendasi: Kampanye halte ramah lansia, peningkatan aksesibilitas, sosialisasi tarif gratis
 4. Pola Perjalanan
-  •	Weekday: Didominasi jam sibuk (06.00 & 17.00)
-  •	Weekend: Jumlah perjalanan menurun drastis
-  •	Rekomendasi: Program loyalitas akhir pekan untuk penumpang aktif
+•	Weekday: Didominasi jam sibuk (06.00 & 17.00)
+•	Weekend: Jumlah perjalanan menurun drastis
+•	Rekomendasi: Program loyalitas akhir pekan untuk penumpang aktif
 5. Analisis Rute
-  •	Weekday: Rute komuter (Cibubur – Balai Kota, Tanah Abang)
-  •	Weekend: Rute wisata (Ancol, Ragunan)
-  •	Rekomendasi: Alokasi armada sesuai pola perjalanan
+•	Weekday: Rute komuter (Cibubur – Balai Kota, Tanah Abang)
+•	Weekend: Rute wisata (Ancol, Ragunan)
+•	Rekomendasi: Alokasi armada sesuai pola perjalanan
 6. Metode Pembayaran
-  •	JakCard Bank DKI paling populer (49%)
-  •	Rekomendasi: Integrasi aplikasi TiJe dengan mobile banking & perluasan top-up JakCard
+•	JakCard Bank DKI paling populer (49%)
+•	Rekomendasi: Integrasi aplikasi TiJe dengan mobile banking & perluasan top-up JakCard
+
 
 Link Tableau Dashboard: https://public.tableau.com/app/profile/muhammad.narendra.atma.ghifari/viz/DashboardTransjakarta_17440348739240/Beranda
