@@ -1,5 +1,4 @@
 # Optimalisasi Layanan Transjakarta Berbasis Analisis Karakteristik Penumpang dan Pola Mobilitas
-Capstone Modul 2 Purwadhika: Data Analysis Transjakarta
 
 Proyek ini bertujuan untuk memberikan rekomendasi strategis bagi peningkatan kualitas layanan dan operasional TransJakarta melalui pendekatan data-driven. Analisis dilakukan terhadap data perjalanan penumpang selama bulan April 2023, mencakup demografi, waktu perjalanan, rute favorit, hingga metode pembayaran.
 
